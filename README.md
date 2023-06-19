@@ -1,4 +1,4 @@
-#EXTINF:-1,fro
+#EXTINF:-1,froo
 https://pc-18.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/d03572158354398fc8fb8cf4a1b5aece/EP.1.0.v0.1677360877.m3u8#AR
 
 
