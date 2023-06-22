@@ -1,2 +1,2 @@
 #EXTINF:-1,froo
-https://qm1.livemodo.click/EAd_bgr21js8EIMiWGKmaQ/1687418019/3138312e3136372e3133332e3233/ff157/playlist.m3u8
+https://pc-22.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/d03572158354398fc8fb8cf4a1b5aece/EP.4.0.v0.1677859389.m3u8#AR
