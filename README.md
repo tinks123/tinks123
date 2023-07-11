@@ -1,2 +1,2 @@
 #EXTINF:-1,froo
-https://pc-16.pelismxcdn.com:443/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/3720c3cf336442ecbad08bf29e13a3bc/EP.0.1.v0.1679646975.1080.m3u8
+https://s4.aliflailaaliflaila.com:999/hls/do10.m3u8?md5=NsQDxGqAXQtRBkQaiNB1eQ&expires=1689123508
