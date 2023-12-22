@@ -1,2 +1,2 @@
 #EXTINF:-1,froo
-https://webudit.webhd.ru/lb/premium387/index.m3u8
+https://12.webhd.ru:443/ddh2/premium387/tracks-v1a1/mono.m3u8
