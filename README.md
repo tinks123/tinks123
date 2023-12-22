@@ -1,2 +1,2 @@
 #EXTINF:-1,froo
-https://12.webhd.ru:443/ddh2/premium387/tracks-v1a1/mono.m3u8
+https://s7.noshwsmkm.com:999/hls/espnpremium.m3u8?md5=ePD8EYEMIL80NH2BTktN-w&expires=1703293334
