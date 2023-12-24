@@ -1,2 +1,2 @@
 #EXTINF:-1,froo
-https://s7.noshwsmkm.com:999/hls/espnpremium.m3u8?md5=ePD8EYEMIL80NH2BTktN-w&expires=1703293334
+https://server30.peliscdn.online/newhls/a689e170439724aceda0f5974cfa64c9/EP.0.1.v1.1677529059.m3u8
