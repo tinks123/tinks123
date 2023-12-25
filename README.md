@@ -1,2 +1,2 @@
 #EXTINF:-1,froo
-https://server27.peliscdn.online/newhls/3339ad9be3fd6a277e9d926810b8554e/EP.0.1.v0.1679731236.m3u8
+https://server40.peliscdn.online/newhls/cbeb9486bfed848efb4c0bb370451223/EP.0.1.v1.1676044120.m3u8
