@@ -1,2 +1,2 @@
 #EXTINF:-1,froo
-https://server42.peliscdn.online/newhls/61e4f1ae56d67a4f9d8a86b6d8bb45ee/EP.0.1.v0.1677433375.m3u8
+https://B00upVlm.sw-cdnstream.com/hls2/01/02535/ensb9taa1z0s_,n,h,x,.urlset/master.m3u8?t=Ncc53ePpmAQnedEpRpC_bVg_CYr8RwbYOTcVP_vR3aw&s=1704227696&e=129600&f=12675497&srv=ryjrfokarusb&i=0.4&sp=500&p1=ryjrfokarusb&p2=ryjrfokarusb&asn=7303
