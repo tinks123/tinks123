@@ -1,2 +1,2 @@
 #EXTINF:-1,pre
-https://webudit.webhd.ru/lb/premium387/index.m3u8
+https://s4.noshwsmkm.com:999/hls/espnpremium.m3u8?md5=TD2D7ZfXSQb2RHBZ6AusOA&expires=1706310629
