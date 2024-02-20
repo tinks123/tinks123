@@ -1,2 +1,2 @@
 #EXTINF:-1,pre
-https://edge2.ttlpro.futbol/live/STe594ff8e45020af.m3u8
+https://double1.totototorina.com:999/hls/ten6.m3u8?md5=0Os4mDUUxTfD-y_AyH00nA&expires=1708476671
